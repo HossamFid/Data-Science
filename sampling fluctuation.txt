@@ -1,0 +1,4 @@
+Sampling fluctuation refers to the extent to which a statistic takes on different values with different samples.
+ That is, it refers to how much the statistic's value fluctuates from sample to sample.
+
+mode measure is the most effected by sampling fluctuations 
